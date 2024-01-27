@@ -56,3 +56,46 @@
   transition: all 300ms ease-in-out;
   cursor: pointer;
 }
+/* first-section */
+.first-section-img{
+  margin-left: 277px;
+}
+.first-section-main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
+.first-section-title{
+  color :#151414;
+font-family: "Work Sans";
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-right: 700px;
+}
+.first-section-descrip{
+  color:#444343;
+font-family: "Work Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+margin-right: 500px;
+margin-top: 24px;
+margin-bottom: 16px;
+}
+.first-section-lists{
+ list-style: url(../images/icon.svg);
+ list-style-type: symbols();
+  align-items: center;
+
+}
+.list-options{
+  font-size: 20px;
+  color: #444343;
+  align-items: center;
+  
+}
+/* 2nd secion */
